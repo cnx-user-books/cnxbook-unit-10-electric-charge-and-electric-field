@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>10.7 - Conductors and Electric Fields in Static Equilibrium</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m60456</md:content-id>
+  <md:title>10.7 - Conductors and Electric Fields in Static Equilibrium</md:title>
+  <md:abstract><list>
+<item>List the three properties of a conductor in electrostatic equilibrium.</item>
+<item>Explain the effect of an electric field on free charges in a conductor.</item>
+<item>Explain why no electric field may exist inside a conductor.</item>
+<item>Describe the electric field surrounding Earth.</item>
+<item>Explain what happens to an electric field applied to an irregular conductor.</item>
+<item>Describe how a lightning rod works.</item>
+<item>Explain how a metal car may protect passengers inside from the dangerous electric fields caused by a downed line touching the car.</item>
+</list></md:abstract>
+  <md:uuid>ced253b2-1349-4531-bf0f-8e917aa9b060</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id3081522"><term id="import-auto-id2422804">Conductors</term> contain <term id="import-auto-id1576423">free charges</term> that move easily. When excess charge is placed on a conductor or the conductor is put into a static electric field, charges in the conductor quickly respond to reach a steady state called <term id="import-auto-id2056158">electrostatic equilibrium</term>.</para>
+    <para id="import-auto-id2970817"><link target-id="import-auto-id3230544"/> shows the effect of an electric field on free charges in a conductor. The free charges move until the field is perpendicular to the conductor’s surface. There can be no component of the field parallel to the surface in electrostatic equilibrium, since, if there were, it would produce further movement of charge. A positive free charge is shown, but free charges can be either positive or negative and are, in fact, negative in metals. The motion of a positive charge is equivalent to the motion of a negative charge in the opposite direction.</para>
+ 
+      <figure id="import-auto-id3230544"><media id="import-auto-id2402594" alt="In part a, an electric field E exists at some angle with the horizontal applied on a conductor. One component of this field E parallel is along x axis represented by a vector arrow and other E perpendicular, is along y axis represented by a vector arrow. Charge inside the conductor moves along x axis so the force acting on it is F parallel, which is equal to q multiplied by E parallel. In part b, a charge is shown inside the conductor and electric field is represented by a vector arrow pointing upward starting from the surface of the conductor.">
+          <image mime-type="image/jpg" src="../../media/Figure_19_07_02a.jpg" width="200"/>
+        </media>
+        
+      <caption>When an electric field <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">E</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E} {}</m:annotation></m:semantics></m:math> is applied to a conductor, free charges inside the conductor move until the field is perpendicular to the surface. (a) The electric field is a vector quantity, with both parallel and perpendicular components. The parallel component (<m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">E</m:mtext><m:mrow><m:mo stretchy="false">∥</m:mo></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{ \rdline } } } {}</m:annotation></m:semantics></m:math>) exerts a force (<m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">F</m:mtext><m:mrow><m:mo stretchy="false">∥</m:mo></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{ \rdline } } } {}</m:annotation></m:semantics></m:math>) on the free charge <m:math><m:semantics><m:mrow><m:mrow><m:mi>q</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation></m:semantics></m:math>, which moves the charge until <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">F</m:mtext><m:mrow><m:mo stretchy="false">∥</m:mo></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{ \rdline } } =0} {}</m:annotation></m:semantics></m:math>. (b) The resulting field is perpendicular to the surface. The free charge has been brought to the conductor’s surface, leaving electrostatic forces in equilibrium.</caption></figure><para id="import-auto-id1420106">A conductor placed in an <term id="import-auto-id1487262">electric field</term> will be <term id="import-auto-id1561098">polarized</term>. <link target-id="import-auto-id2453144"/> shows the result of placing a neutral conductor in an originally uniform electric field. The field becomes stronger near the conductor but entirely disappears inside it.</para>
+  
+  
+    <figure id="import-auto-id2453144"><media id="import-auto-id1986389" alt="A spherical conductor is placed in the external electric field. The field lines are shown running from left to right. The field lines enter and leave the conductor at right angles. Negative charges accumulate on the left surface of the conductor and positive charges accumulate on the right surface of the conductor.">
+        <image mime-type="image/jpg" src="../../media/Figure_19_07_03a.jpg" width="200"/>
+      </media>
+      
+    <caption>This illustration shows a spherical conductor in static equilibrium with an originally uniform electric field. Free charges move within the conductor, polarizing it, until the electric field lines are perpendicular to the surface. The field lines end on excess negative charge on one section of the surface and begin again on excess positive charge on the opposite side. No electric field exists inside the conductor, since free charges in the conductor would continue moving in response to any field until it was neutralized.</caption></figure><note id="fs-id2660797"><label/><title>Misconception Alert: Electric Field inside a Conductor</title>
+    
+    <para id="import-auto-id2589598">Excess charges placed on a spherical conductor repel and move until they are evenly distributed, as shown in <link target-id="import-auto-id2594136"/>. Excess charge is forced to the surface until the field inside the conductor is zero. Outside the conductor, the field is exactly the same as if the conductor were replaced by a point charge at its center equal to the excess charge.</para>
+    
+      
+    <figure id="import-auto-id2594136"><media id="import-auto-id2661903" alt="A positively charged sphere is shown and positive charges are distributed all over the surface. Electric field lines emanate from the sphere in the space shown by the vector arrow pointing outward.">
+        <image mime-type="image/jpg" src="../../media/Figure_19_07_04a.jpg" width="200"/>
+      </media>
+      
+    <caption>The mutual repulsion of excess positive charges on a spherical conductor distributes them uniformly on its surface. The resulting electric field is perpendicular to the surface and zero inside. Outside the conductor, the field is identical to that of a point charge at the center equal to the excess charge.</caption></figure></note><note id="fs-id3032178"><label/>
+    <title>Properties of a Conductor in Electrostatic Equilibrium</title>
+<list id="fs-id2394081" list-type="enumerated" number-style="arabic"><item id="import-auto-id1577562">The electric field is zero inside a conductor.</item>
+    <item id="import-auto-id1575688">Just outside a conductor, the electric field lines are perpendicular to its surface, ending or beginning on charges on the surface.</item>
+    <item id="import-auto-id1236511">Any excess charge resides entirely on the surface or surfaces of a conductor.</item>
+</list>
+    </note>
+  
+    <para id="import-auto-id1446943">The properties of a conductor are consistent with the situations already discussed and can be used to analyze any conductor in electrostatic equilibrium. This can lead to some interesting new insights, such as described below.</para>
+    <para id="import-auto-id2662934">How can a very uniform electric field be created? Consider a system of two metal plates with opposite charges on them, as shown in <link target-id="import-auto-id2594161"/>. The properties of conductors in electrostatic equilibrium indicate that the electric field between the plates will be uniform in strength and direction. Except near the edges, the excess charges distribute themselves uniformly, producing field lines that are uniformly spaced (hence uniform in strength) and perpendicular to the surfaces (hence uniform in direction, since the plates are flat). The edge effects are less important when the plates are close together.</para>
+ 
+  
+    <figure id="import-auto-id2594161"><media id="import-auto-id1842860" alt="Two charged metal plates are shown. The lower plate has negative charge and the upper plate has positive charge. The electric field lines start from positive plate and enter the negative plate represented by arrows.">
+        <image mime-type="image/jpg" src="../../media/Figure_19_07_05a.jpg" width="300"/>
+      </media>
+      
+    <caption>Two metal plates with equal, but opposite, excess charges. The field between them is uniform in strength and direction except near the edges. One use of such a field is to produce uniform acceleration of charges between the plates, such as in the electron gun of a TV tube.</caption></figure><section id="fs-id1993364">
+    <title>Earth’s Electric Field</title>
+    <para id="import-auto-id1562038">A near uniform electric field of approximately 150 N/C, directed downward, surrounds Earth, with the magnitude increasing slightly as we get closer to the surface. What causes the electric field? At around 100 km above the surface of Earth we have a layer of charged particles, called the <term id="import-auto-id1578229">ionosphere</term>. The ionosphere is responsible for a range of phenomena including the electric field surrounding Earth. In fair weather the ionosphere is positive and the Earth largely negative, maintaining the electric field (<link target-id="import-auto-id3162895"/>(a)).</para>
+    <para id="import-auto-id1972718">In storm conditions clouds form and localized electric fields can be larger and reversed in direction (<link target-id="import-auto-id3162895"/>(b)). The exact charge distributions depend on the local conditions, and variations of <link target-id="import-auto-id3162895"/>(b) are possible.</para>
+    <para id="import-auto-id3259486">If the electric field is sufficiently large, the insulating properties of the surrounding material break down and it becomes conducting. For air this occurs at around <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "10" rSup { size 8{6} } } {}</m:annotation></m:semantics></m:math> N/C. Air ionizes ions and electrons recombine, and we get discharge in the form of lightning sparks and corona discharge.</para>
+  
+  
+      <figure id="import-auto-id3162895"><media id="import-auto-id3028283" alt="In part a, a child is flying a kite with two men in an open field on a bright sunny day. In part b, lightning appears over a body of water in stormy weather.">
+          <image mime-type="image/png" src="../../media/Figure_19_07_06a.jpg" width="300"/>
+        </media>
+        
+      <caption>Earth’s electric field. (a) Fair weather field. Earth and the ionosphere (a layer of charged particles) are both conductors. They produce a uniform electric field of about 150 N/C. (credit: D. H. Parks) (b) Storm fields. In the presence of storm clouds, the local electric fields can be larger. At very high fields, the insulating properties of the air break down and lightning can occur. (credit: Jan-Joost Verhoef)</caption></figure></section>
+  
+  <section id="fs-id2678903" class="section-summary"><title>Section Summary</title><list id="fs-id1570982"><item id="import-auto-id1517252">A conductor allows free charges to move about within it.</item>
+    <item id="import-auto-id1355895">The electrical forces around a conductor will cause free charges to move around inside the conductor until static equilibrium is reached.</item>
+    <item id="import-auto-id1355534">Any excess charge will collect along the surface of a conductor.</item>
+    <item id="import-auto-id2626177">Conductors with sharp corners or points will collect more charge at those points.</item>
+    <item id="import-auto-id2599034">A lightning rod is a conductor with sharply pointed ends that collect excess charge on the building caused by an electrical storm and allow it to dissipate back into the air.</item>
+    <item id="import-auto-id2011404">Electrical storms result when the electrical field of Earth’s surface in certain locations becomes more strongly charged, due to changes in the insulating effect of the air.</item>
+    <item id="import-auto-id2000560">A Faraday cage acts like a shield around an object, preventing electric charge from penetrating inside.</item>
+</list></section></content>
+  <glossary>
+    <definition id="import-auto-id694467"><term>conductor</term> <meaning id="fs-id3026046">an object with properties that allow charges to move about freely within it</meaning></definition>
+    <definition id="import-auto-id2689037"><term>free charge</term> <meaning id="fs-id3162269">an electrical charge (either positive or negative) which can move about separately from its base molecule</meaning></definition>
+    <definition id="import-auto-id3081941"><term>electrostatic equilibrium</term> <meaning id="fs-id3088821">an electrostatically balanced state in which all free electrical charges have stopped moving about</meaning></definition>
+    <definition id="import-auto-id1828027"><term>polarized</term> <meaning id="fs-id2453098">a state in which the positive and negative charges within an object have collected in separate locations</meaning></definition>
+    <definition id="import-auto-id2514406"><term>ionosphere</term> <meaning id="fs-id2680827">a layer of charged particles located around 100 km above the surface of Earth, which is responsible for a range of phenomena including the electric field surrounding Earth</meaning></definition>
+    <definition id="import-auto-id1864432"><term>Faraday cage</term> <meaning id="fs-id3257638">a metal shield which prevents electric charge from penetrating its surface</meaning></definition>
+  </glossary>
+</document>
